@@ -1,0 +1,6 @@
+{
+    "store.password" : "changeit",
+    "store.path": "./keyStore.dat",
+    "iv.value": "ASDFGHJKL1234567",
+    "store.alias":"WS_USER_PASSWORD_KEY"
+}
